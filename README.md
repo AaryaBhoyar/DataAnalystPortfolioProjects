@@ -119,7 +119,7 @@
 
 ![Dashboard](visuals/excel/INDEX.png)
 
-![Dashboard](visuals/excel/LOOKUP.png)
+![Dashboard](visuals/excel/LOOKUP.png) 
 
 
 - Shipping Data: Pivot Tables, Pivot Chart, Slicers <br />
